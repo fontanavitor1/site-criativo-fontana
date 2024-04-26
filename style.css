@@ -21,3 +21,24 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem {
+    width: 30%;
+}
+
+.escola {
+    background-image: linear-gradient(#F5F5F5);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+}
